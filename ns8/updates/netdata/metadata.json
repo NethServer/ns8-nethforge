@@ -1,0 +1,23 @@
+{
+  "name": "Netdata",
+  "description": {
+    "en": "Netdata collects metrics per second and presents them in dashboards",
+    "it": "Netdata raccoglie parametri al secondo e li presenta nei dashboard"
+  },
+  "categories": [
+    "monitoring"
+  ],
+  "authors": [
+    {
+      "name": "Stephane de Labrusse",
+      "email": "stephdl@de-labrusse.fr"
+    }
+  ],
+  "docs": {
+    "documentation_url": "https://github.com/NethServer/ns8-netdata/blob/main/README.md",
+    "bug_url": "https://github.com/NethServer/dev",
+    "code_url": "https://github.com/NethServer/ns8-netdata"
+  },
+  "source": "ghcr.io/nethserver/netdata"
+}
+
