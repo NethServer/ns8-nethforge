@@ -1,7 +1,7 @@
 {
-  "name": "lamp",
+  "name": "Lamp",
   "description": {
-    "en": "LAMP provides a comprehensive and open-source platform for developing, deploying, and managing dynamic PHP web applications and websites"
+    "en": "Open-source PHP web hosting stack (Linux, Apache, MariaDB, PHP)"
   },
   "categories": [],
   "authors": [
