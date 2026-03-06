@@ -1,5 +1,5 @@
 {
-  "name": "Lamp",
+  "name": "lamp",
   "description": {
     "en": "Open-source PHP web hosting stack (Linux, Apache, MariaDB, PHP)"
   },
