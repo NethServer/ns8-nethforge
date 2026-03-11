@@ -3,7 +3,7 @@
   "description": {
     "en": "Open-source PHP web hosting stack (Linux, Apache, MariaDB, PHP)"
   },
-  "categories": [],
+  "categories": ["web"],
   "authors": [
     {
       "name": "Stephane de Labrusse",
