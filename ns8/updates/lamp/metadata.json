@@ -1,0 +1,19 @@
+{
+  "name": "lamp",
+  "description": {
+    "en": "Open-source PHP web hosting stack (Linux, Apache, MariaDB, PHP)"
+  },
+  "categories": ["web"],
+  "authors": [
+    {
+      "name": "Stephane de Labrusse",
+      "email": "stephdl@de-labrusse.fr"
+    }
+  ],
+  "docs": {
+    "documentation_url": "https://github.com/nethserver/ns8-lamp",
+    "bug_url": "https://github.com/nethserver/dev",
+    "code_url": "https://github.com/nethserver/ns8-lamp"
+  },
+  "source": "ghcr.io/nethserver/lamp"
+}
