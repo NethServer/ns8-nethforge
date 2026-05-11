@@ -1,0 +1,22 @@
+{
+  "name": "Hermes Agent",
+  "description": {
+    "en": "Hermes Agent is a self-improving AI agent that can perform tasks autonomously"
+   },
+  "categories": [
+    "development",
+    "AI"
+  ],
+  "authors": [
+    {
+      "name": "Stefano Fancello",
+      "email": "stefano.fancello@nethesis.it"
+    }
+  ],
+  "docs": {
+    "documentation_url": "https://hermes-agent.nousresearch.com/docs/",
+    "bug_url": "https://github.com/Stell0/ns8-hermes-agent/issues",
+    "code_url": "https://github.com/Stell0/ns8-hermes-agent"
+  },
+  "source": "ghcr.io/stell0/hermes-agent"
+}
