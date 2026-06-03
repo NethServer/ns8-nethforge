@@ -15,8 +15,8 @@
   ],
   "docs": {
     "documentation_url": "https://hermes-agent.nousresearch.com/docs/",
-    "bug_url": "https://github.com/Stell0/ns8-hermes-agent/issues",
-    "code_url": "https://github.com/Stell0/ns8-hermes-agent"
+    "bug_url": "https://github.com/nethserver/dev/issues",
+    "code_url": "https://github.com/nethserver/ns8-hermes-agent"
   },
-  "source": "ghcr.io/stell0/hermes-agent"
+  "source": "ghcr.io/nethserver/ns8-hermes-agent"
 }
