@@ -18,5 +18,5 @@
     "bug_url": "https://github.com/nethserver/dev/issues",
     "code_url": "https://github.com/nethserver/ns8-hermes-agent"
   },
-  "source": "ghcr.io/nethserver/ns8-hermes-agent"
+  "source": "ghcr.io/nethserver/hermes-agent"
 }
