@@ -23,7 +23,7 @@ import yaml
 
 
 try:
-    pins = yaml.safe_load(open("pins.yml"))
+    pins = yaml.safe_load(open("pins.yml")) or {}
 except Exception as ex:
     print("[WARNING] while parsing pins.yml:", ex, file=sys.stderr)
     pins = {}
