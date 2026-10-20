@@ -1,0 +1,21 @@
+{
+  "name": "GLPI",
+  "description": {
+    "en": "IT asset management and service desk"
+  },
+  "categories": [
+    "collaboration"
+  ],
+  "authors": [
+    {
+      "name": "Stephane de Labrusse",
+      "email": "stephdl@de-labrusse.fr"
+    }
+  ],
+  "docs": {
+    "documentation_url": "https://github.com/stephdl/ns8-glpi",
+    "bug_url": "https://github.com/stephdl/ns8-glpi/issues",
+    "code_url": "https://github.com/stephdl/ns8-glpi"
+  },
+  "source": "ghcr.io/stephdl/glpi"
+}
