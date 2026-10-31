@@ -1,0 +1,19 @@
+{
+  "name": "lamp",
+  "description": {
+    "en": "LAMP provides a comprehensive and open-source platform for developing, deploying, and managing dynamic PHP web applications and websites"
+  },
+  "categories": ["web"],
+  "authors": [
+    {
+      "name": "Stephane de Labrusse",
+      "email": "stephdl@de-labrusse.fr"
+    }
+  ],
+  "docs": {
+    "documentation_url": "https://docs.nethserver.org/docs/administrator-manual/nethforge/lamp",
+    "bug_url": "https://github.com/NethServer/dev",
+    "code_url": "https://github.com/NethServer/ns8-lamp"
+  },
+  "source": "ghcr.io/nethserver/lamp"
+}
