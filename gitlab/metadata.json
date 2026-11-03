@@ -3,7 +3,8 @@
   "upstream_name": "GitLab CE",
   "description": {
     "en": "Self-hosted GitLab Community Edition DevSecOps platform for Git repositories, CI/CD, and Container Registry",
-    "de": "Selbstgehostete GitLab Community Edition DevSecOps-Plattform für Git-Repositories, CI/CD und Container Registry"
+    "de": "Selbstgehostete GitLab Community Edition DevSecOps-Plattform für Git-Repositories, CI/CD und Container Registry",
+    "it": "Piattaforma DevSecOps GitLab Community Edition self-hosted per repository Git, CI/CD e Container Registry"
   },
   "categories": ["development", "collaboration"],
   "authors": [
