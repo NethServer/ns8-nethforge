@@ -3,7 +3,8 @@
   "upstream_name": "Vaultwarden",
   "description": {
     "en": "Self-hosted Bitwarden-compatible password manager server written in Rust, with Admin Panel, Smarthost, LDAP Sync, and Push Notifications",
-    "de": "Selbstgehosteter Bitwarden-kompatibler Passwort-Manager-Server in Rust, inkl. Admin-Panel, Smarthost-, LDAP-Sync- und Push-Integration"
+    "de": "Selbstgehosteter Bitwarden-kompatibler Passwort-Manager-Server in Rust, inkl. Admin-Panel, Smarthost-, LDAP-Sync- und Push-Integration",
+    "it": "Server per la gestione delle password self-hosted compatibile con Bitwarden, scritto in Rust, con pannello di amministrazione, smarthost, sincronizzazione LDAP e notifiche push"
   },
   "categories": ["security", "collaboration"],
   "authors": [
