@@ -3,4 +3,12 @@
 # `org.nethserver.min-from` in core 2.10, we can pin specific image tags
 # to ensure they are always visible to clients, allowing for gradual
 # upgrades between breaking releases.
-{}
+paperlessngx:
+  # Keep checkpoint images visible after a newer stable release is published.
+  # New 1.4.x images require org.nethserver.min-from=1.3.2.
+  # New 2.0.x images require org.nethserver.min-from=1.4.0.
+  # Descending order matters: NS8 selects the first eligible update.
+  - { tag: 1.4.0, prepend: False }
+  - { tag: 1.3.2, prepend: False }
+  # Retain the last release usable before the new minimum-core requirement.
+  - { tag: 1.3.1, prepend: False }
